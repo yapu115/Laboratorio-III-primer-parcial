@@ -435,6 +435,12 @@ aside button {
     font-size: 10px;
   }
 
+  #escribinos-link {
+    font-size: 12px;
+    width: 120px;
+    line-height: 35px;
+  }
+
   .red-social a {
     font-size: 10px;
     width: 120px;
